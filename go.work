@@ -2,5 +2,6 @@ go 1.20
 
 use (
 	./go-rpc-demo
+	./json-rpc-demo
 	./rpc
 )
